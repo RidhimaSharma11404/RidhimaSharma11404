@@ -1,100 +1,120 @@
-<h1 align="center">Hi, I'm Ridhima Sharma 👋</h1>
+<h1 align="center">Hi 👋, I'm Ridhima Sharma</h1>
+
+<h3 align="center">AI & ML Student | Backend Developer | Java | FastAPI | React</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Student;Backend+Developer;Java+%7C+Python+%7C+FastAPI;Learning+Distributed+Systems;Building+solutions+that+matter."/>
 </p>
 
----
-
-## 🌟 A little about me
-
-I enjoy building software that solves real problems, whether that's using **Machine Learning** to make better predictions or developing **backend systems** that are reliable, scalable, and easy to use.
-
-What excites me most isn't just writing code—it's understanding how things work under the hood. I like exploring algorithms, APIs, databases, system design, and the engineering decisions that turn an idea into a usable product.
-
-Currently, I'm pursuing my B.Tech in Computer Science (AI & ML), where I'm constantly expanding my knowledge through hands-on projects, DSA practice, and learning modern backend technologies.
-
-I believe every project is an opportunity to learn something new, improve existing solutions, and write cleaner, more efficient code than I did yesterday.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RidhimaSharma11404&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
-## 💡 What I'm interested in
+# 🌟 A Little About Me
+
+I’m a Computer Science undergraduate with a passion for building intelligent applications and scalable backend systems. I enjoy solving real-world problems by combining software engineering principles with Artificial Intelligence and Machine Learning.
+
+For me, programming is more than writing code—it's about designing solutions that are efficient, maintainable, and impactful. Whether I'm developing REST APIs, training machine learning models, or solving algorithmic challenges, I enjoy understanding how systems work beneath the surface.
+
+I'm continuously exploring modern backend technologies, distributed systems, databases, and cloud computing while strengthening my problem-solving skills through Data Structures and Algorithms.
+
+I believe the best way to learn is by building, experimenting, and continuously improving.
+
+---
+
+# 💡 Areas of Interest
 
 - 🤖 Artificial Intelligence & Machine Learning
 - ⚙️ Backend Development
-- ☕ Java & Spring Ecosystem
+- ☕ Java Development
 - 🚀 FastAPI & REST APIs
-- 🗄️ Databases & Data Engineering
+- 🌐 Full Stack Development
+- 🗄️ Database Management Systems
 - 📊 Data Structures & Algorithms
-- ☁️ Cloud Technologies
-- 🏗️ System Design & Distributed Systems
+- ☁️ Cloud Computing
+- 🏗️ System Design
+- 🔄 Distributed Systems
 
 ---
 
-## 🛠 Technologies I work with
+# 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### Backend
+---
+
+### ⚙️ Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 
-### Frontend
+---
+
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
-### Databases
+---
+
+### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
-### Tools
+---
+
+### 🧰 Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-## 📚 Currently Exploring
+# 📚 Currently Learning
 
-- Distributed Systems
-- System Design
-- Backend Architecture
-- Cloud Computing
-- High Performance APIs
-- Database Optimization
-- Machine Learning Applications
+- 🚀 Backend Architecture
+- 🏗️ Distributed Systems
+- ☁️ Cloud Computing
+- ⚡ System Design
+- 📈 Machine Learning Applications
+- 🔄 Scalable REST APIs
+- 🛢️ Database Optimization
 
 ---
 
-## 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RidhimaSharma11404&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhimaSharma11404&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RidhimaSharma11404&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌱 Beyond Coding
+# 🌱 Beyond Coding
 
-Outside of academics, I enjoy solving algorithmic problems, exploring emerging technologies, reading about software architecture, and continuously improving my development workflow. I believe that consistency, curiosity, and continuous learning are the foundation of becoming a better engineer.
+When I'm not coding, you'll usually find me exploring new technologies, improving my problem-solving skills through DSA, reading about software architecture, or experimenting with new ideas in AI and backend development.
 
-I'm always open to collaborating on interesting projects, contributing to open source, and connecting with people who enjoy building impactful software.
+I'm always eager to learn, collaborate, and contribute to meaningful projects while continuously growing as a software engineer.
 
 ---
 
-> **"Keep learning. Keep building. Keep improving."** 🚀
+<h3 align="center">✨ "Build. Learn. Improve. Repeat." ✨</h3>

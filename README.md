@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Custom Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Ridhima%20Sharma&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Student%20%7C%20Backend%20Developer%20%7C%20Software%20Engineer&descAlignY=51&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Ridhima%20Sharma&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20ML%20Student%20%7C%20Backend%20Developer%20%7C%20Software%20Engineer&descAlignY=51&descSize=19" width="100%"/>
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+Intelligent+Systems+%26+Scalable+Backends+%F0%9F%9A%80;Java+%7C+Python+%7C+FastAPI+%7C+Spring+Boot+%7C+React+%E2%9C%A8;Engineering+AI-Driven+Solutions+That+Matter+%F0%9F%92%A1;Open+for+Opportunities+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Systems+%26+Scalable+Backends+%F0%9F%9A%80;Java+%7C+Python+%7C+FastAPI+%7C+Spring+Boot+%7C+React+%E2%9C%A8;Engineering+AI-Driven+Scalable+Solutions+%F0%9F%92%A1;Open+for+Opportunities+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,28 +23,28 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ```yaml
 name: Ridhima Sharma
 located_in: India
-education: B.Tech CSE (AI & ML) - VIT Bhopal (2023 - 2027)
-current_focus: Backend Architecture & Intelligent AI/ML Systems
+education: B.Tech CSE (AI & ML) - VIT Bhopal
+current_focus: Backend & Intelligent AI Systems
 
 fields_of_interest:
-  - Artificial Intelligence & Machine Learning
-  - Agentic AI Workflows & RAG Systems
-  - Scalable Backend Engineering (FastAPI, Spring Boot)
-  - Distributed Systems & Database Optimization
-  - Full-Stack Web Development (React)
+  - Artificial Intelligence & ML
+  - Agentic AI & RAG Systems
+  - Scalable Backend (FastAPI, Spring Boot)
+  - Distributed Systems & DBs
+  - Full-Stack Development (React)
 
 currently_learning:
-  - Advanced Multi-Agent Systems & LLM Tooling
-  - High-Throughput Distributed Architectures
-  - System Design & Cloud Deployment
-  - Data Structures & Algorithms Mastery
+  - Multi-Agent Systems & LLM Tooling
+  - High-Throughput Architectures
+  - System Design & Scalability
+  - DSA Mastery (Java / LeetCode)
 
-fun_fact: "I believe combining robust engineering with AI can solve real-world complexities! 🚀"
+fun_fact: "Bridging AI & production software 🚀"
 ```
 
 <br clear="right"/>

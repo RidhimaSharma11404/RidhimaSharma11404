@@ -55,8 +55,7 @@ fun_fact: "I believe combining robust engineering with AI can solve real-world c
 
 💼 **Professional Experience:**
 - 🏛️ **Bhabha Atomic Research Centre (BARC), Trombay** – *Software Development Intern* (Built full-stack real-time chatbot using React & FastAPI)
-- 🏢 **Aditya Birla Group** – *Software Development Intern* (Engineered real-time sales analytics dashboard with React & FastAPI)
-- 📈 **Finlatics** – *Machine Learning Intern* (Predictive modeling, feature engineering & sales forecasting)
+
 
 🏆 **Certifications & Milestones:**
 - 📜 **Microsoft Certified:** Azure Data Fundamentals (DP-900)

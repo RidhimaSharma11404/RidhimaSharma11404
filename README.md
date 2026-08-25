@@ -23,7 +23,7 @@
 
 ## ⚡ **Engineer Dossier**
 
-<img align="right" alt="Developer Workflow" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" alt="Ridhima Sharma Profile Photo" width="260" src="https://raw.githubusercontent.com/RidhimaSharma11404/portfolio/main/assets/avatar.jpg">
 
 ```json
 {

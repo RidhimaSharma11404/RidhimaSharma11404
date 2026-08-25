@@ -1,129 +1,116 @@
 <div align="center">
 
-<!-- Custom Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Ridhima%20Sharma&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20ML%20Student%20%7C%20Backend%20Developer%20%7C%20Software%20Engineer&descAlignY=51&descSize=19" width="100%"/>
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,5,8,11,14&height=200&section=header&text=Ridhima%20Sharma&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Architect%20%E2%80%A2%20AI%20%7C%20ML%20Engineer%20%E2%80%A2%20VIT%20Bhopal&descAlignY=52&descSize=18" width="100%"/>
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Systems+%26+Scalable+Backends+%F0%9F%9A%80;Java+%7C+Python+%7C+FastAPI+%7C+Spring+Boot+%7C+React+%E2%9C%A8;Engineering+AI-Driven+Scalable+Solutions+%F0%9F%92%A1;Open+for+Opportunities+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Systems+%26+Scalable+Backends+%F0%9F%9A%80;Java+%E2%80%A2+Python+%E2%80%A2+FastAPI+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%9C%A8;Engineering+AI-Driven+Distributed+Solutions+%F0%9F%92%A1;Open+for+Graduate+Roles+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-FF007F?style=for-the-badge&logo=microsoft-academic&logoColor=white" />
-  <img src="https://img.shields.io/badge/VIT-Bhopal-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Building%20The%20Future-00D9FF?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎓_Degree-B.Tech_CSE_(AI_&_ML)-7928CA?style=for-the-badge&logo=microsoft-academic&logoColor=white" />
+  <img src="https://img.shields.io/badge/🏛️_University-VIT_Bhopal-0070F3?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡_Focus-Backend_&_AI_Systems-00DFD8?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RidhimaSharma11404&color=FF007F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RidhimaSharma11404&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+## ⚡ **Engineer Dossier**
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" alt="Developer Workflow" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-```yaml
-name: Ridhima Sharma
-located_in: India
-education: B.Tech CSE (AI & ML) - VIT Bhopal
-current_focus: Backend & Intelligent AI Systems
-
-fields_of_interest:
-  - Artificial Intelligence & ML
-  - Agentic AI & RAG Systems
-  - Scalable Backend (FastAPI, Spring Boot)
-  - Distributed Systems & DBs
-  - Full-Stack Development (React)
-
-currently_learning:
-  - Multi-Agent Systems & LLM Tooling
-  - High-Throughput Architectures
-  - System Design & Scalability
-  - DSA Mastery (Java / LeetCode)
-
-fun_fact: "Bridging AI & production software 🚀"
+```json
+{
+  "engineer": "Ridhima Sharma",
+  "education": "B.Tech in CSE (AIML) - VIT Bhopal (2023 - 2027)",
+  "specialization": [
+    "High-Performance Backend Engineering",
+    "Agentic AI Workflows & RAG Systems",
+    "Distributed Systems & Database Optimization"
+  ],
+  "core_stack": ["Java (Spring Boot)", "Python (FastAPI)", "React", "PostgreSQL"],
+  "current_mission": "Bridging AI intelligence with resilient enterprise software 🚀"
+}
 ```
 
 <br clear="right"/>
 
 <details>
-<summary><b>🎯 Experience & Achievements Highlights</b></summary>
+<summary><b>💼 Professional Experience & Milestone Highlights</b></summary>
 <br>
 
-💼 **Professional Experience:**
-- 🏛️ **Bhabha Atomic Research Centre (BARC), Trombay** – *Software Development Intern* (Built full-stack real-time chatbot using React & FastAPI)
-- 🏢 **Aditya Birla Group** – *Software Development Intern* (Engineered real-time sales analytics dashboard with React & FastAPI)
-- 📈 **Finlatics** – *Machine Learning Intern* (Predictive modeling, feature engineering & sales forecasting)
+### 🏢 Industry Internships:
+- 🏛️ **Bhabha Atomic Research Centre (BARC), Trombay** – *Software Development Intern*  
+  *Engineered a full-stack real-time intelligent chatbot platform utilizing React and FastAPI for low-latency interactions.*
+- 🏢 **Aditya Birla Group** – *Software Development Intern*  
+  *Built an interactive real-time sales analytics dashboard with React & FastAPI to power executive business insights.*
+- 📈 **Finlatics** – *Machine Learning Intern*  
+  *Developed predictive models and custom feature engineering pipelines for classification and sales forecasting.*
 
-🏆 **Certifications & Milestones:**
-- 📜 **Microsoft Certified:** Azure Data Fundamentals (DP-900)
-- 📜 **Google & SmartBridge:** Machine Learning Certification
-- 🥇 **Google Hack4Change 2025:** Qualified Round 1
-- 💡 **Hackathons:** Smart India Hackathon (SIH), Ideathon 2026, Health Hack participant
+### 📜 Certifications & Achievements:
+- 🎖️ **Microsoft Certified:** Azure Data Fundamentals (DP-900)
+- 🎖️ **Google & SmartBridge:** Machine Learning Certification
+- 🏆 **Google Hack4Change 2025:** Qualified Round 1
+- 💡 **Hackathons:** Smart India Hackathon (SIH), Ideathon 2026, Health Hack
 
 </details>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Tech Arsenal**
+## 🛠️ **System Capabilities & Tech Stack**
 
 <div align="center">
 
-### **Languages**
+### **Backend Architecture & APIs**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+</p>
+
+### **AI / ML & Vector Intelligence**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0080FF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+### **Core Languages & Frontend**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### **AI / ML & Data Science**
+### **Databases & DevOps Infrastructure**
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### **Backend & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### **Databases & Vector Storage**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0080FF?style=for-the-badge&logo=meta&logoColor=white" />
-</p>
-
-### **Tools, Cloud & DevOps**
-<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **Featured Projects**
+## 🚀 **Featured Engineering Projects**
 
 <div align="center">
 
@@ -132,27 +119,27 @@ fun_fact: "Bridging AI & production software 🚀"
 <td width="50%">
 
 ### 🧠 [RAG Stack](https://github.com/RidhimaSharma11404/Rag_Stack)
-**Vulnerability & Threat Intelligence RAG Engine**
+**Cybersecurity & Threat Intelligence RAG Engine**
 
-<img src="https://img.shields.io/badge/RAG-Vector%20DB-FF007F?style=flat-square" />
-<img src="https://img.shields.io/badge/NLP-STIX%20Loader-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-Vector%20DB-7928CA?style=flat-square" />
+<img src="https://img.shields.io/badge/NLP-STIX%20Loader-00DFD8?style=flat-square" />
 
-Advanced Retrieval-Augmented Generation (RAG) platform with STIX vulnerability dataset ingestion, FAISS/ChromaDB vector store, and LLM question answering.
+Advanced Retrieval-Augmented Generation platform with STIX vulnerability ingestion, vector similarity search, and automated remediation synthesis.
 
-**Tech:** Python, FAISS, ChromaDB, RAG, NLP
+**Stack:** Python, FAISS, ChromaDB, RAG, NLP
 
 </td>
 <td width="50%">
 
 ### 💼 [SkillBridge / SkillMatrix](https://github.com/RidhimaSharma11404/SkillMatrix)
-**Talent Assessment & Skill Mapping Platform**
+**Talent Assessment & Skill Benchmarking Platform**
 
-<img src="https://img.shields.io/badge/Full%20Stack-FastAPI%20%2B%20UI-FF007F?style=flat-square" />
-<img src="https://img.shields.io/badge/Deployment-Docker%20%26%20Vercel-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Full%20Stack-FastAPI%20%2B%20UI-7928CA?style=flat-square" />
+<img src="https://img.shields.io/badge/Deployment-Docker%20%26%20Vercel-00DFD8?style=flat-square" />
 
-End-to-end skill benchmarking and interactive analytics platform for engineering roles with automated evaluation and containerized deployment.
+Interactive talent benchmarking dashboard for engineering competencies with automated scoring and containerized backend deployment.
 
-**Tech:** JavaScript, HTML/CSS, Python, FastAPI, Docker
+**Stack:** JavaScript, HTML/CSS, Python, FastAPI, Docker
 
 </td>
 </tr>
@@ -160,27 +147,27 @@ End-to-end skill benchmarking and interactive analytics platform for engineering
 <td width="50%">
 
 ### 💳 [Fintech Digital Wallet](https://github.com/RidhimaSharma11404/Fintech-SpringBoot-Project)
-**Secure Enterprise Wallet Backend**
+**Enterprise Financial Ledger & Wallet Backend**
 
-<img src="https://img.shields.io/badge/Spring%20Boot-Enterprise-FF007F?style=flat-square" />
-<img src="https://img.shields.io/badge/Security-JWT%20%2B%20JPA-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Spring%20Boot-Enterprise-7928CA?style=flat-square" />
+<img src="https://img.shields.io/badge/Security-JWT%20%2B%20JPA-00DFD8?style=flat-square" />
 
-Scalable digital wallet platform with authentication, transaction ledger tracking, wallet balance locks, and audit management.
+Scalable digital wallet backend managing user authentication, concurrency-safe transactions, balance tracking, and immutable audit logs.
 
-**Tech:** Java, Spring Boot, MySQL, JWT, REST APIs
+**Stack:** Java, Spring Boot, MySQL, JWT, REST APIs
 
 </td>
 <td width="50%">
 
 ### 🎯 [CareerThink (Resume Matcher)](https://github.com/RidhimaSharma11404/careerthink)
-**AI Resume & Job Fit Analyzer**
+**AI Resume & Job Description Semantic Matcher**
 
-<img src="https://img.shields.io/badge/LLM-Job%20Matcher-FF007F?style=flat-square" />
-<img src="https://img.shields.io/badge/NLP-Keyword%20Gap-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM-Job%20Matcher-7928CA?style=flat-square" />
+<img src="https://img.shields.io/badge/NLP-Keyword%20Gap-00DFD8?style=flat-square" />
 
-Smart resume matcher evaluating resumes against target job descriptions, uncovering missing skills, scoring ATS fit with Gemini LLM.
+AI platform evaluating candidate resumes against job descriptions, identifying critical skill gaps, and generating ATS fit scores with Gemini LLM.
 
-**Tech:** Python, Flask, Google Gemini API, JavaScript
+**Stack:** Python, Flask, Google Gemini API, JavaScript
 
 </td>
 </tr>
@@ -188,27 +175,27 @@ Smart resume matcher evaluating resumes against target job descriptions, uncover
 <td width="50%">
 
 ### 👁️ [TrackSense CV](https://github.com/RidhimaSharma11404/TrackSense-CV-Project)
-**Real-Time Computer Vision Pipeline**
+**Real-Time Computer Vision & Visual Odometry**
 
-<img src="https://img.shields.io/badge/CV-Odometry-FF007F?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenCV-Motion%20Seg-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/CV-Odometry-7928CA?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCV-Motion%20Seg-00DFD8?style=flat-square" />
 
-Real-time pipeline integrating feature tracking, visual odometry, dynamic object detection, and motion segmentation.
+High-performance vision pipeline combining optical flow, visual odometry, dynamic object detection, and motion segmentation.
 
-**Tech:** Python, OpenCV, NumPy, Deep Learning
+**Stack:** Python, OpenCV, NumPy, Deep Learning
 
 </td>
 <td width="50%">
 
 ### 🔗 [URL-Master](https://github.com/RidhimaSharma11404/URL-MASTER)
-**Scalable URL Shortener & Analytics**
+**Scalable URL Shortener & Analytics Engine**
 
-<img src="https://img.shields.io/badge/Backend-FastAPI-FF007F?style=flat-square" />
-<img src="https://img.shields.io/badge/DB-PostgreSQL-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend-FastAPI-7928CA?style=flat-square" />
+<img src="https://img.shields.io/badge/DB-PostgreSQL-00DFD8?style=flat-square" />
 
-High-performance URL shortening service with JWT authentication, custom slug generation, rate limiting, and click analytics.
+High-throughput URL shortening service featuring JWT authentication, custom alias routing, rate limiting, and click analytics.
 
-**Tech:** FastAPI, PostgreSQL, SQLAlchemy, JWT
+**Stack:** FastAPI, PostgreSQL, SQLAlchemy, JWT
 
 </td>
 </tr>
@@ -219,91 +206,80 @@ High-performance URL shortening service with JWT authentication, custom slug gen
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=4&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,8,11,14&height=4&section=header" width="100%"/>
 </div>
 
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Activity & Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RidhimaSharma11404&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RidhimaSharma11404&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RidhimaSharma11404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A855F7&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RidhimaSharma11404&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidhimaSharma11404&theme=radical&hide_border=true&background=0D1117&stroke=FF007F&ring=FF007F&fire=00D9FF&currStreakLabel=00D9FF" width="60%" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidhimaSharma11404&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=A855F7&fire=00F5FF&currStreakLabel=00F5FF" width="60%" alt="Streak Stats"/>
 </div>
 
 ---
 
-## 🎯 **Current Focus & Goals**
+## 🎯 **Strategic Focus & Growth Areas**
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="60" /><br>
 <b>Backend Architecture</b><br>
-<sub>Building scalable, fault-tolerant systems</sub>
+<sub>Distributed & fault-tolerant systems</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60" /><br>
-<b>Agentic AI</b><br>
-<sub>Multi-agent LLM systems & workflows</sub>
+<b>Agentic AI & RAG</b><br>
+<sub>Autonomous multi-agent LLM systems</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" width="60" /><br>
 <b>DSA Mastery</b><br>
-<sub>Algorithms & problem solving (Java)</sub>
+<sub>Java problem solving & algorithms</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" /><br>
 <b>Open Source</b><br>
-<sub>Contributing & building with community</sub>
+<sub>Collaborative software engineering</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🌟 **Career Objectives**
+## 💡 **Engineering Mindset**
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+```java
+public class SoftwareEngineer {
+    private final String name = "Ridhima Sharma";
+    private final List<String> corePillars = List.of(
+        "Scalable & Resilient Backends",
+        "Applied AI & Vector Intelligence",
+        "Clean, Maintainable Architecture"
+    );
 
-### 🎯 **Seeking Opportunities In:**
-
-<p align="left">
-🔹 <b>Software Development Engineering (SDE)</b><br>
-🔹 <b>Backend Engineering (Java / Python)</b><br>
-🔹 <b>AI / Machine Learning Engineering</b><br>
-🔹 <b>Full-Stack Development (React / FastAPI / Spring Boot)</b><br>
-🔹 <b>Distributed Systems & Cloud Computing</b>
-</p>
-
-</td>
-<td align="center" width="50%">
-
-### 💡 **What I Bring:**
-
-<p align="left">
-✨ Enterprise internship experience (BARC & Aditya Birla Group)<br>
-✨ Strong foundation in DSA, System Design & OOPs<br>
-✨ Hands-on experience with LLMs, RAG & CV pipelines<br>
-✨ Fast learner with problem-solving & collaborative mindset<br>
-✨ Commitment to writing clean, maintainable, tested code
-</p>
-
-</td>
-</tr>
-</table>
+    public void executeDaily() {
+        while (isPassionate()) {
+            masterEmergingTechnologies();
+            engineerHighThroughputSystems();
+            solveComplexAlgorithmicChallenges();
+            deliverMeasurableImpact();
+        }
+    }
+}
+```
 
 </div>
 
 ---
 
-## 🤝 **Connect With Me**
+## 🤝 **Connect & Network**
 
 <div align="center">
 
@@ -324,41 +300,14 @@ High-performance URL shortening service with JWT authentication, custom slug gen
 
 ---
 
-## 💭 **Philosophy**
-
 <div align="center">
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Ridhima Sharma"
-        self.passions = ["AI/ML Systems", "Backend Architecture", "Problem Solving"]
-        self.motto = "Build, Optimize, Scale, Iterate"
-    
-    def daily_routine(self):
-        while self.is_alive:
-            self.learn_emerging_tech()
-            self.build_impactful_projects()
-            self.solve_dsa_problems()
-            self.collaborate_and_share()
-            self.strive_for_excellence()
-        
-    def mission(self):
-        return "Engineering intelligent, reliable software systems that solve real-world problems 🚀"
-```
+### 🌟 **"Turning complex engineering challenges into elegant, intelligent solutions"** 🌟
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,5,8,11,14&height=100&section=footer" width="100%"/>
 
----
+**⭐ Engineering robust software & intelligent systems, one commit at a time ⭐**
 
-<div align="center">
-
-### 🌟 **"Turning complex problems into elegant, intelligent solutions"** 🌟
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%"/>
-
-**⭐ Building robust software & intelligent systems, one commit at a time ⭐**
-
-<sub>Made with ❤️ and lots of ☕</sub>
+<sub>Crafted with passion & code ☕</sub>
 
 </div>

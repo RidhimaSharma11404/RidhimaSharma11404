@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,5,8,11,14&height=200&section=header&text=Ridhima%20Sharma&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Architect%20%E2%80%A2%20AI%20%7C%20ML%20Engineer%20%E2%80%A2%20VIT%20Bhopal&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8,11,14&height=220&section=header&text=Ridhima%20Sharma&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20ML%20Student%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -212,12 +212,12 @@ High-throughput URL shortening service featuring JWT authentication, custom alia
 ## 📊 **GitHub Activity & Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RidhimaSharma11404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A855F7&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RidhimaSharma11404&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidhimaSharma11404&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidhimaSharma11404&theme=tokyonight" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidhimaSharma11404&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=A855F7&fire=00F5FF&currStreakLabel=00F5FF" width="60%" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=RidhimaSharma11404&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=70a5fd&fire=38bdae&currStreakLabel=38bdae" width="70%" alt="Streak Stats"/>
 </div>
 
 ---
@@ -304,7 +304,7 @@ public class SoftwareEngineer {
 
 ### 🌟 **"Turning complex engineering challenges into elegant, intelligent solutions"** 🌟
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,5,8,11,14&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8,11,14&height=100&section=footer" width="100%"/>
 
 **⭐ Engineering robust software & intelligent systems, one commit at a time ⭐**
 

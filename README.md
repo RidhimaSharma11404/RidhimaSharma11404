@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-FF007F?style=for-the-badge&logo=microsoft-academic&logoColor=white" />
   <img src="https://img.shields.io/badge/VIT-Bhopal-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Building%20The%20Future-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20The%20Future-00D9FF?style=for-the-badge&logo=codefactor&logoColor=white" />
 </p>
 
 <p align="center">
@@ -55,7 +55,8 @@ fun_fact: "I believe combining robust engineering with AI can solve real-world c
 
 💼 **Professional Experience:**
 - 🏛️ **Bhabha Atomic Research Centre (BARC), Trombay** – *Software Development Intern* (Built full-stack real-time chatbot using React & FastAPI)
-
+- 🏢 **Aditya Birla Group** – *Software Development Intern* (Engineered real-time sales analytics dashboard with React & FastAPI)
+- 📈 **Finlatics** – *Machine Learning Intern* (Predictive modeling, feature engineering & sales forecasting)
 
 🏆 **Certifications & Milestones:**
 - 📜 **Microsoft Certified:** Azure Data Fundamentals (DP-900)
@@ -130,28 +131,28 @@ fun_fact: "I believe combining robust engineering with AI can solve real-world c
 <tr>
 <td width="50%">
 
-### ✈️ [TravelMind AI](https://github.com/RidhimaSharma11404/TravelMind)
-**Autonomous Multi-Agent Travel Planner**
+### 🧠 [RAG Stack](https://github.com/RidhimaSharma11404/Rag_Stack)
+**Vulnerability & Threat Intelligence RAG Engine**
 
-<img src="https://img.shields.io/badge/Agentic%20AI-Gemini%202.5-FF007F?style=flat-square" />
-<img src="https://img.shields.io/badge/FastAPI-Parallel%20Async-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-Vector%20DB-FF007F?style=flat-square" />
+<img src="https://img.shields.io/badge/NLP-STIX%20Loader-00D9FF?style=flat-square" />
 
-Multi-agent AI travel orchestration engine (Budget, Comfort, Experience, Negotiator, Manager) creating optimized personalized itineraries.
+Advanced Retrieval-Augmented Generation (RAG) platform with STIX vulnerability dataset ingestion, FAISS/ChromaDB vector store, and LLM question answering.
 
-**Tech:** Python, FastAPI, Gemini API, SQLite
+**Tech:** Python, FAISS, ChromaDB, RAG, NLP
 
 </td>
 <td width="50%">
 
-### 🔍 [ChronoLogs AI](https://github.com/RidhimaSharma11404/Chronologes-ai)
-**Intelligent Anomaly Detection & RCA**
+### 💼 [SkillBridge / SkillMatrix](https://github.com/RidhimaSharma11404/SkillMatrix)
+**Talent Assessment & Skill Mapping Platform**
 
-<img src="https://img.shields.io/badge/ML-Anomaly%20Detection-FF007F?style=flat-square" />
-<img src="https://img.shields.io/badge/NLP-Incident%20Clustering-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Full%20Stack-FastAPI%20%2B%20UI-FF007F?style=flat-square" />
+<img src="https://img.shields.io/badge/Deployment-Docker%20%26%20Vercel-00D9FF?style=flat-square" />
 
-Full-stack log analysis platform applying ML clustering to raw logs, generating incidents and providing human-readable AI explanations.
+End-to-end skill benchmarking and interactive analytics platform for engineering roles with automated evaluation and containerized deployment.
 
-**Tech:** Python, ML, NLP, FastAPI, Scikit-Learn
+**Tech:** JavaScript, HTML/CSS, Python, FastAPI, Docker
 
 </td>
 </tr>
@@ -218,19 +219,18 @@ High-performance URL shortening service with JWT authentication, custom slug gen
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=4&section=header" width="100%"/>
 </div>
 
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RidhimaSharma11404&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF007F&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhimaSharma11404&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RidhimaSharma11404&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RidhimaSharma11404&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidhimaSharma11404&theme=radical&hide_border=true&background=0D1117&stroke=FF007F&ring=FF007F&fire=00D9FF&currStreakLabel=00D9FF" width="49%" alt="Streak Stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidhimaSharma11404&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=FF007F&point=FFFFFF&area=true&hide_border=true" width="49%" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidhimaSharma11404&theme=radical&hide_border=true&background=0D1117&stroke=FF007F&ring=FF007F&fire=00D9FF&currStreakLabel=00D9FF" width="60%" alt="Streak Stats"/>
 </div>
 
 ---
